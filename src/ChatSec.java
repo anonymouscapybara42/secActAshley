@@ -27,7 +27,7 @@ public class ChatSec extends JFrame {
 
         this.setVisible(true);
         this.pack();
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+            this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
 
     public void addContainer (Component component, int gridx, int gridy, int gridwidth, int gridheight, int weightx, int weighty) {
