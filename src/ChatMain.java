@@ -10,8 +10,8 @@ public class ChatMain {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-        frame1.setTitle("Paris");
-        frame2.setTitle("negros");
+        frame1.setTitle("HEllo 2302803 ");
+        frame2.setTitle("World 2302803 ASHLEY G. GLARAGA");
 =======
         frame1.setTitle("Ako");
         frame2.setTitle("Kamo");
