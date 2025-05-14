@@ -9,7 +9,7 @@ public class ChatMain {
 
 <<<<<<< HEAD
         frame1.setTitle("Paris");
-        frame2.setTitle("NEgros");
+        frame2.setTitle("negros");
 =======
         frame1.setTitle("Ako");
         frame2.setTitle("Kamo");
